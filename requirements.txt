@@ -23,7 +23,6 @@ eyes-selenium==3.11.1
 Faker==0.7.17
 Flask==0.12.2
 funcsigs==1.0.2
-functools==0.5
 future==0.16.0
 get==0.0.38
 idna==2.5
@@ -57,7 +56,6 @@ post==0.0.26
 public==0.0.65
 py==1.4.31
 pyasn1==0.4.2
-PyAutoGUI==0.9.36
 pycparser==2.17
 pyfiglet==0.7.5
 PyMsgBox==1.0.6
