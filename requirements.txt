@@ -76,7 +76,7 @@ pytz==2017.2
 PyYAML==3.12
 query-string==0.0.28
 redis==2.10.5
-requests==2.18.1
+requests==2.20
 requests-oauthlib==0.8.0
 Robot-AppEyes==1.2
 robotframework==3.0.4
@@ -122,7 +122,7 @@ suds==0.4
 termcolor==1.1.0
 tornado==4.5.3
 tox==2.9.1
-urllib3==1.21.1
+urllib3==1.24.3
 virtualenv==15.1.0
 waitress==1.1.0
 watchdog==0.8.3
