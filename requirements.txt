@@ -54,14 +54,14 @@ pluggy==0.6.0
 ply==3.10
 post==0.0.26
 public==0.0.65
-py==1.4.31
+py==1.10.0
 pyasn1==0.4.2
 pycparser==2.17
 pyfiglet==0.7.5
 PyMsgBox==1.0.6
 PyNaCl==1.2.1
 pyocr==0.4.7
-pyOpenSSL==17.0.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 pypng==0.0.18
 PyScreeze==0.1.13
@@ -76,7 +76,7 @@ pytz==2017.2
 PyYAML==3.12
 query-string==0.0.28
 redis==2.10.5
-requests==2.18.1
+requests==2.20
 requests-oauthlib==0.8.0
 Robot-AppEyes==1.2
 robotframework==3.0.4
@@ -122,9 +122,9 @@ suds==0.4
 termcolor==1.1.0
 tornado==4.5.3
 tox==2.9.1
-urllib3==1.21.1
+urllib3==1.26.5
 virtualenv==15.1.0
-waitress==1.1.0
+waitress==2.1.1
 watchdog==0.8.3
 WebOb==1.7.4
 websocket-client==0.46.0
@@ -132,3 +132,4 @@ WebTest==2.0.29
 Werkzeug==0.14.1
 wrapt==1.10.10
 xlrd==1.1.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
