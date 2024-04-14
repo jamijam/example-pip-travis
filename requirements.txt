@@ -25,7 +25,7 @@ Flask==0.12.2
 funcsigs==1.0.2
 future==0.16.0
 get==0.0.38
-idna==2.5
+idna==3.7
 image==1.5.5
 images2gif-Pillow==0.0.5
 ipaddress==1.0.18
